@@ -7,4 +7,4 @@ Boilerplate for static websites.
 
 ## How do I use this?
 
-*Clone this repo
+* Clone this repo
